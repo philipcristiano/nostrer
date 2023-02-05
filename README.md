@@ -1,0 +1,2 @@
+# nostrer
+Erlang Nostr Client
